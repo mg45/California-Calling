@@ -1,0 +1,50 @@
+/*----------------------------------------
+  Custom Fonts
+----------------------------------------*/
+@font-face {
+    font-family: Larish New Semibold;
+    src: url(../fonts/Larish\ Neue\ Semibold.woff2);
+}
+
+@font-face {
+    font-family: LarishNewSemibold;
+    src: url(../fonts/LarishNeueSemibold.woff);
+}
+
+/*----------------------------------------
+  Default Styles
+----------------------------------------*/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 90%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+body {
+    font-family: Larish New Semibold;
+}
+
+li, a {
+    color: #000;
+    text-decoration: none;
+}
+
+/*----------------------------------------
+  Header
+----------------------------------------*/
+
+/*----------------------------------------
+  Nav
+----------------------------------------*/
+
+/*----------------------------------------
+  Hero Section
+----------------------------------------*/
